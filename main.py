@@ -52,7 +52,7 @@ pizza_y_precios.pop()
 
 
 #Step 11 metodo .insert()
-pizza_y_precios.insert(2, [2.5, "pizza comun"])
+pizza_y_precios.insert(2, [2.5, "pizza comun"]) #Recurri al chatGPT
 #print(pizza_y_precios)
 
 
